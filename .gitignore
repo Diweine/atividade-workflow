@@ -1,0 +1,8 @@
+# Para todos os arquivos e sub-pastas localizados na pasta bower_components/
+node_modules/
+# Para todos os arquivos e sub-pastas localizados na dist/
+dist/
+# Para todos os arquivos Git/
+.git
+"Certifcação_Bootstrap.sublime-project"
+"Certifca\303\247\303\243o_Bootstrap.sublime-workspace"
